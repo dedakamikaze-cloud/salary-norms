@@ -1,8 +1,8 @@
 {
-  "spec1": { "csat": 90, "gok": 80, "aht": 940, "revenue": 70000 },
-  "spec2": { "csat": 90, "gok": 85, "aht": 850, "revenue": 70000 },
-  "spec3": { "csat": 90, "gok": 80, "aht": 940, "revenue": 70000 },
-  "spec4": { "csat": 90, "gok": 85, "aht": 850, "revenue": 70000 },
-  "lead":  { "csat": 90, "gok": 90, "aht": 720, "revenue": 70000 },
-  "expert":{ "csat": 90, "gok": 90, "aht": 720, "revenue": 70000 }
+  "spec1": { "csat": 90, "gok": 85, "aht": 585, "revenue": 40000 },
+  "spec2": { "csat": 90, "gok": 90, "aht": 485, "revenue": 40000 },
+  "spec3": { "csat": 90, "gok": 80, "aht": 700, "revenue": 46000 },
+  "spec4": { "csat": 90, "gok": 85, "aht": 640, "revenue": 46000 },
+  "lead":  { "csat": 90, "gok": 90, "aht": 520, "revenue": 46000 },
+  "expert":{ "csat": 90, "gok": 90, "aht": 510, "revenue": 46000 }
 }
