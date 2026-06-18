@@ -1,0 +1,8 @@
+{
+  "spec1": { "csat": 90, "gok": 80, "aht": 940, "revenue": 70000 },
+  "spec2": { "csat": 90, "gok": 85, "aht": 850, "revenue": 70000 },
+  "spec3": { "csat": 90, "gok": 80, "aht": 940, "revenue": 70000 },
+  "spec4": { "csat": 90, "gok": 85, "aht": 850, "revenue": 70000 },
+  "lead":  { "csat": 90, "gok": 90, "aht": 720, "revenue": 70000 },
+  "expert":{ "csat": 90, "gok": 90, "aht": 720, "revenue": 70000 }
+}
