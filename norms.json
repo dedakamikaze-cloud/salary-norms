@@ -1,14 +1,14 @@
 {
   "spec1": {
     "csat": 90,
-    "gok": 85,
-    "aht": 585,
+    "gok": 87,
+    "aht": 600,
     "revenue": 40000
   },
   "spec2": {
     "csat": 90,
     "gok": 90,
-    "aht": 485,
+    "aht": 480,
     "revenue": 40000
   },
   "spec3": {
