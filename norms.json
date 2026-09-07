@@ -26,13 +26,13 @@
   "lead": {
     "csat": 90,
     "gok": 90,
-    "aht": 510,
+    "aht": 500,
     "revenue": 46000
   },
   "expert": {
-    "csat": 91,
-    "gok": 90,
-    "aht": 500,
+    "csat": 90,
+    "gok": 91,
+    "aht": 490,
     "revenue": 46000
   }
 }
