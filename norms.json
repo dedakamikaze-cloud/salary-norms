@@ -12,27 +12,27 @@
     "revenue": 40000
   },
   "spec3": {
-    "csat": 80,
+    "csat": 90,
     "gok": 80,
     "aht": 700,
-    "revenue": 46000
+    "revenue": 43000
   },
   "spec4": {
-    "csat": 85,
+    "csat": 90,
     "gok": 85,
     "aht": 640,
-    "revenue": 46000
+    "revenue": 43000
   },
   "lead": {
     "csat": 90,
     "gok": 90,
     "aht": 500,
-    "revenue": 46000
+    "revenue": 43000
   },
   "expert": {
     "csat": 90,
     "gok": 91,
-    "aht": 490,
-    "revenue": 46000
+    "aht": 480,
+    "revenue": 43000
   }
 }
